@@ -8,7 +8,7 @@ from typing import List
 #import pypistats
 import requests
 import streamlit as st
-import yaml
+#import yaml
 from bs4 import BeautifulSoup
 from markdownlit import mdlit
 from stqdm import stqdm
