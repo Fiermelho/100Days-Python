@@ -4,17 +4,17 @@ from dataclasses import dataclass
 from datetime import datetime, timedelta
 from typing import List
 
-#import httpx
-#import pypistats
+import httpx
+import pypistats
 import requests
 import streamlit as st
-#import yaml
-#from bs4 import BeautifulSoup
-#from markdownlit import mdlit
-#from stqdm import stqdm
+import yaml
+from bs4 import BeautifulSoup
+from markdownlit import mdlit
+from stqdm import stqdm
 
 # from streamlit_dimensions import st_dimensions
-#from streamlit_pills import pills
+from streamlit_pills import pills
 
 # from streamlit_profiler import Profiler
 
@@ -142,6 +142,7 @@ st.write(
 icon("🎪")
 """
 # Streamlit Components Hub
+
 [![](https://img.shields.io/github/stars/jrieke/components-hub?style=social)](https://github.com/jrieke/components-hub) &nbsp; [![](https://img.shields.io/twitter/follow/jrieke?style=social)](https://twitter.com/jrieke)
 """
 
