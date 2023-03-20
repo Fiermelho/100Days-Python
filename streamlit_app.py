@@ -9,7 +9,7 @@ from typing import List
 import requests
 import streamlit as st
 #import yaml
-from bs4 import BeautifulSoup
+#from bs4 import BeautifulSoup
 from markdownlit import mdlit
 from stqdm import stqdm
 
