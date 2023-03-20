@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@Fiermelho 
-jrieke
-/
-components-hub
-Public
-Fork your own copy of jrieke/components-hub
-Code
-Issues
-3
-Pull requests
-Actions
-Projects
-Security
-Insights
-components-hub/streamlit_app.py /
-@jrieke
-jrieke exclude forks
-Latest commit f9c2eee on Jan 6
- History
- 1 contributor
-813 lines (709 sloc)  29.3 KB
-
 import re
 import time
 from dataclasses import dataclass
@@ -840,18 +810,3 @@ if len(components) > st.session_state["limit"]:
 # if summary and summary.text and summary.text != "No project description provided":
 #     print("found summary description on pypi:", summary.text)
 # print(summary)
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-components-hub/streamlit_app.py at main · jrieke/components-hub
