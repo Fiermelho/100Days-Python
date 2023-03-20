@@ -14,7 +14,7 @@ import streamlit as st
 #from stqdm import stqdm
 
 # from streamlit_dimensions import st_dimensions
-from streamlit_pills import pills
+#from streamlit_pills import pills
 
 # from streamlit_profiler import Profiler
 
