@@ -11,7 +11,7 @@ import streamlit as st
 #import yaml
 #from bs4 import BeautifulSoup
 #from markdownlit import mdlit
-from stqdm import stqdm
+#from stqdm import stqdm
 
 # from streamlit_dimensions import st_dimensions
 from streamlit_pills import pills
