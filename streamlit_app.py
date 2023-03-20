@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 from typing import List
 
 #import httpx
-import pypistats
+#import pypistats
 import requests
 import streamlit as st
 import yaml
